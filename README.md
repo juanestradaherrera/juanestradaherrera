@@ -1,6 +1,6 @@
 - 👋 Hi, My name is Juan Esteban Estrada, I'm from Colombia
 - 🌱 I’m currently studying Data Science at CODERHOUSE
-- 👀 I'm proficient in VBA, Python & SQL
+- 👀 I'm proficient at VBA, Python & SQL
 - 💞️ I’m looking to collaborate on any data project that let me practice what I'm currently learning.
 
 <!---
